@@ -1,0 +1,7 @@
+// classe de teste Testepessoa
+public class  Testepessoa  {
+    public static void main(string[] args)
+    // criando instancias da classe pessoa 
+    Pessoa pessoa1 = new Pessoa('Nicoly',19, 1.66);
+    Pessoa pessoa2 = new Pessoa ('Julio', 23, 1.70);
+}
